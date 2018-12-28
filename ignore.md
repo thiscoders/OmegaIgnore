@@ -1,0 +1,10 @@
+127.0.0.1
+[::1]
+localhost
+*.baidu.com
+*.hand-china.com
+*.csdn.net
+*.liuye-cloud.top
+*.qq.com
+*.zhihu.com
+*.daocloud.io
