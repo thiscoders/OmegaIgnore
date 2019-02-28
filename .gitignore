@@ -1,0 +1,8 @@
+# apple file system
+.DS_Store
+
+# backup files
+*~
+*.swp
+
+
